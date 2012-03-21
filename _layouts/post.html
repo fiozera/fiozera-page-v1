@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<h1>{{ page.title }}</h1>
+<div id="post">
+{{ content }}
+</div>
+{% if page.youtube %}
+<div id="youtube">
+  <iframe width="560" height="315" src="http://www.youtube.com/embed/{{ page.youtube }}" frameborder="0" allowfullscreen></iframe>
+</div>
+{% endif %}
+
+{% if page.repository %}
+<div id="repository">
+  <a href="{{ page.repository }}">Repositório</a>
+</div>
+{% endif %}

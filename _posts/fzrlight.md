@@ -1,0 +1,13 @@
+---
+layout: post
+title: FZRLight – Adalight modification using 74HC595 shift registers and ShiftPWM library
+repository: https://github.com/andrebla/fzrlight
+youtube: SbghVEkZqcw
+---
+
+Using the Adalight project and modifing a litle code lines this project substitute the original components used in original project by a lot of 74HC595 (shift registers) and the ShiftPWM library. For the test only 5 LEDs were assembled, but 25 LED’s apparently work, and I will made it soon..
+
+
+Links:
+[Adalight – Ladyada’s “ambilight” – Project](http://www.ladyada.net/make/adalight/)
+[ShiftPWM Library by Elco Jacobs – Project](http://www.elcojacobs.com/shiftpwm/)
