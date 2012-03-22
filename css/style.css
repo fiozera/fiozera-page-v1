@@ -230,6 +230,7 @@ td { vertical-align: top; }
 
 a, a:link, a:visited, a:active, a:hover, a:focus {
   color: #E97F02;
+  text-decoration: none;
 }
 a:hover, a:focus {
   color: #BD1550;
