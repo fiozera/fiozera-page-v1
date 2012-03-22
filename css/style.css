@@ -346,7 +346,9 @@ footer {
   width: 960px !important;
 }
 
-
+.content {
+  margin-bottom: 30px;
+}
 
 
 
