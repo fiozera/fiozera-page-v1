@@ -1,8 +1,10 @@
 ---
 layout: post
 title: FTDI FZR Breakout Board
+snippet: Atari Punk Console
 repository: https://github.com/andrebla/ftdifzr
 youtube: 4Yf-KapSEFo
+thumbnail: ftdi-fzr-breakout-board.jpg
 ---
 
 Breakout Board FTDI FT232RL USB para serial que pode ser montada em uma placa 

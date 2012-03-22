@@ -14,13 +14,13 @@ layout: default
 
 {% if page.youtube %}
 <div id="youtube">
-  <iframe width="640" height="480" src="http://www.youtube.com/embed/{{ page.youtube }}" frameborder="0" allowfullscreen></iframe>
+  <iframe width="480" height="320" src="http://www.youtube.com/embed/{{ page.youtube }}" frameborder="0" allowfullscreen></iframe>
 </div>
 {% endif %}
 
 {% if page.pictures %}
   {% for item in page.pictures %}
-    <img src="{{ item }}"><br />
+    <img src="{{ item }}" width="480" height="320" class="gallery-item">
   {% endfor %}
 {% endif %}
 

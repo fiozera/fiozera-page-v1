@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Interface IR para USB para multímetros Agilent
+snippet: Atari Punk Console
 youtube: AO-UhaVoZJc
+thumbnail: interface-ir-usb-agilent.jpg
 ---
 
 Um recurso presente em alguns modelos de multímetros, a exemplo do Agilent U1231A 

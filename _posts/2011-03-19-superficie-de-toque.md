@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Superfície de toque
+snippet: Atari Punk Console
 repository: https://github.com/andrebla/touchsurface
 youtube: emBm9OQ2CPE
+thumbnail: superficie-de-toque.jpg
 ---
 
 A ideia de se fazer uma superficie de toque para telas finas de grandes dimensões 

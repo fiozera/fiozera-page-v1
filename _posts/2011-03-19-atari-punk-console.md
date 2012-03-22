@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Atari Punk Console
+snippet: Atari Punk Console
 repository: https://github.com/andrebla/fzduino
 youtube: Vd0MPCAJXbY
+thumbnail: atari-punk-console.jpg
 ---
 
 Neste sábado fiz uma montagem que estava devendo para mim mesmo já faz um tempo, 

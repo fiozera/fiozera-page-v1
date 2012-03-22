@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Mini-Curso Eagle
+snippet: Atari Punk Console
 ---
 
 Links

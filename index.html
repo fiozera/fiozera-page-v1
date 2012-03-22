@@ -3,8 +3,25 @@ layout: default
 title: Fiozera - um monte de fio
 ---
 
-<ul class="posts">
+<ul id="projects-list">
   {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+   
+   <li class="project-overview">
+     <div class="project-overview-info">
+       
+       <h2 class="project-overview-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+       
+       <a href="{{ post.url }}">
+       <p class="project-overview-desc">{{ post.snippet }}</p>
+       </a>
+     </div>
+     {% if post.thumbnail %}
+      <img src="/images/thumbnails/{{ post.thumbnail }}" width="960" height="260" alt="{{ post.title }}">
+     {% else %}
+      <img src="/images/thumbnails/default.jpg" width="960" height="260" alt="{{ post.title }}">
+     {% endif%}
+   </li>
+   
+   {% endfor %}
+   
+ </ul>
