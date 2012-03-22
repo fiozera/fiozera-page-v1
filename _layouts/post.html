@@ -5,17 +5,25 @@ layout: default
 <div id="post">
 {{ content }}
 </div>
-{% if page.youtube %}
-<div id="youtube">
-  <iframe width="560" height="315" src="http://www.youtube.com/embed/{{ page.youtube }}" frameborder="0" allowfullscreen></iframe>
-</div>
-{% endif %}
 
 {% if page.repository %}
 <div id="repository">
   <a href="{{ page.repository }}">Repositório</a>
 </div>
 {% endif %}
+
+{% if page.youtube %}
+<div id="youtube">
+  <iframe width="640" height="480" src="http://www.youtube.com/embed/{{ page.youtube }}" frameborder="0" allowfullscreen></iframe>
+</div>
+{% endif %}
+
+{% if page.pictures %}
+  {% for item in page.pictures %}
+    <img src="{{ item }}"><br />
+  {% endfor %}
+{% endif %}
+
 
 <div id="disqus_thread"></div>
 <script type="text/javascript">
@@ -30,4 +38,3 @@ layout: default
     })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>

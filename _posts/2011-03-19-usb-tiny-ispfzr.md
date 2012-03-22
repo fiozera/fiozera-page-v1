@@ -3,6 +3,10 @@ layout: post
 title: USBtinyISPFZR – Programador AVR e interface ISP USB
 repository: https://github.com/andrebla/usbtinyispfzr
 youtube: _w54NU0lezA
+pictures: 
+- http://farm7.static.flickr.com/6201/6132770219_b4afa21f2e_z.jpg
+- http://farm7.static.flickr.com/6172/6133326450_91e3c122dc_z.jpg
+- http://farm7.static.flickr.com/6069/6133336602_58766fce16_z.jpg
 ---
 
 Baseado no projeto USBtinyISP desenvolvido por Ladyada essa versão possui algumas modificações com a finalidade de facilitar a sua montagem, como por exemplo a troca do ressonador cerâmico, pela dificuldade de se encontrar um por aqui, por um cristal de mesma frequência e dois capacitores, outras alterações feitas para simplificação de layout que permitiram o uso de uma placa de circuito impresso de uma única face. O repositório github guarda os esquemas feitos no EagleCAD.
