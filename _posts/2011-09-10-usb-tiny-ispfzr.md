@@ -1,7 +1,7 @@
 ---
 layout: post
 title: USBtinyISPFZR – Programador AVR e interface ISP USB
-snippet: Atari Punk Console
+snippet: Isso mesmo, USB
 repository: https://github.com/andrebla/usbtinyispfzr
 youtube: _w54NU0lezA
 thumbnail: usb-tiny-ispfzr.jpg

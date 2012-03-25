@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FTDI FZR Breakout Board
-snippet: Atari Punk Console
+snippet: Porque todo mundo ainda precisa da serial
 repository: https://github.com/andrebla/ftdifzr
 youtube: 4Yf-KapSEFo
 thumbnail: ftdi-fzr-breakout-board.jpg

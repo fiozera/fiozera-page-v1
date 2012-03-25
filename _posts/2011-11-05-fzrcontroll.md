@@ -1,7 +1,7 @@
 ---
 layout: post
 title: fzrcontroll – Usando um joystick para controlar um carro de controle remoto
-snippet: Atari Punk Console
+snippet: Redundância?
 repository: https://github.com/andrebla/fzrcontroll
 youtube: U-ofDQl6WSc
 thumbnail: fzrcontroll.jpg

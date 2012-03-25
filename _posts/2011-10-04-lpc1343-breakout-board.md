@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LPC1343 Breakout Board
-snippet: Atari Punk Console
+snippet: Soldando smd
 repository: https://github.com/andrebla/lpc1343fzr
 youtube: n5UTsQrWSbU
 thumbnail: lpc1343-breakout-board.jpg

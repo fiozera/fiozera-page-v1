@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Superfície de toque
-snippet: Atari Punk Console
+snippet: Pra sujar o monitor
 repository: https://github.com/andrebla/touchsurface
 youtube: emBm9OQ2CPE
 thumbnail: superficie-de-toque.jpg

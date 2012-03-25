@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Como usar joysticks para controlar seus projetos com Arduino
-snippet: Atari Punk Console
+snippet: Mantendo o controle
 repository: https://github.com/andrebla/ghlights
 youtube: Ak8JPkltOgs
 thumbnail: joystick-controlar-arduino.jpg

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Interface IR para USB para multímetros Agilent
-snippet: Atari Punk Console
+snippet: DIY é mais barato
 youtube: AO-UhaVoZJc
 thumbnail: interface-ir-usb-agilent.jpg
 ---
