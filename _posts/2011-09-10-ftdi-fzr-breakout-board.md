@@ -5,6 +5,10 @@ snippet: Porque todo mundo ainda precisa da serial
 repository: https://github.com/andrebla/ftdifzr
 youtube: 4Yf-KapSEFo
 thumbnail: ftdi-fzr-breakout-board.jpg
+pictures: 
+- http://farm7.staticflickr.com/6204/6133560802_d377ed4b8f_z.jpg
+- http://farm7.staticflickr.com/6163/6133558746_98194932d0_z.jpg
+- http://farm7.staticflickr.com/6161/6133556936_e43bbe623a_z.jpg
 ---
 
 Breakout Board FTDI FT232RL USB para serial que pode ser montada em uma placa 

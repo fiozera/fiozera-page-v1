@@ -4,6 +4,10 @@ title: Interface IR para USB para multímetros Agilent
 snippet: DIY é mais barato
 youtube: AO-UhaVoZJc
 thumbnail: interface-ir-usb-agilent.jpg
+pictures: 
+- http://farm8.staticflickr.com/7146/6538911809_2bc85fec78_z.jpg
+- http://farm8.staticflickr.com/7034/6538564853_00dbc068bb_z.jpg
+- http://farm8.staticflickr.com/7164/6538601305_cbb1d0fd9d_z.jpg
 ---
 
 Um recurso presente em alguns modelos de multímetros, a exemplo do Agilent U1231A 

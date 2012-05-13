@@ -5,6 +5,10 @@ snippet: Pra sujar o monitor
 repository: https://github.com/andrebla/touchsurface
 youtube: emBm9OQ2CPE
 thumbnail: superficie-de-toque.jpg
+pictures: 
+- http://farm8.staticflickr.com/7141/6709081331_caabcf37d9_z.jpg
+- http://farm8.staticflickr.com/7020/6709078249_da8dd9035a_z.jpg
+- http://farm8.staticflickr.com/7149/6703201993_590ed47c46_z.jpg
 ---
 
 A ideia de se fazer uma superficie de toque para telas finas de grandes dimensões 
