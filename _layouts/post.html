@@ -14,9 +14,11 @@ layout: default
 {% endif %}
 
 {% if page.youtube %}
-<div id="youtube">
-  <iframe width="480" height="320" src="http://www.youtube.com/embed/{{ page.youtube }}" frameborder="0" allowfullscreen></iframe>
-</div>
+  {% for video in page.youtube %}
+    <div class="youtube">
+      <iframe width="480" height="320" src="http://www.youtube.com/embed/{{ video }}" frameborder="0" allowfullscreen></iframe>
+    </div>
+{% endfor %}
 {% endif %}
 
 {% if page.pictures %}

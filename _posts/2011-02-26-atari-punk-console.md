@@ -3,7 +3,8 @@ layout: post
 title: Atari Punk Console
 snippet: Clássico como o console
 repository: https://github.com/andrebla/fzduino
-youtube: Vd0MPCAJXbY
+youtube: 
+- Vd0MPCAJXbY
 thumbnail: atari-punk-console.jpg
 ---
 

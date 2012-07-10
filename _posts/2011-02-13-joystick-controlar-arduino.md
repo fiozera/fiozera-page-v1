@@ -3,7 +3,8 @@ layout: post
 title: Como usar joysticks para controlar seus projetos com Arduino
 snippet: Mantendo o controle
 repository: https://github.com/andrebla/ghlights
-youtube: VTTamp6J508
+youtube: 
+- VTTamp6J508
 thumbnail: joystick-controlar-arduino.jpg
 ---
 

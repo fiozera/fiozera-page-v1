@@ -326,7 +326,7 @@ footer {
 	color: #333;
 }
 
-#youtube {
+.youtube {
   display: inline;
   float: left;
   width: 480px;

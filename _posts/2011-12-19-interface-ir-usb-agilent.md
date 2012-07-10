@@ -3,7 +3,8 @@ layout: post
 title: Interface IR para USB para multímetros Agilent
 snippet: DIY é mais barato
 youtube: AO-UhaVoZJc
-thumbnail: interface-ir-usb-agilent.jpg
+thumbnail:
+ - interface-ir-usb-agilent.jpg
 pictures: 
 - http://farm8.staticflickr.com/7146/6538911809_2bc85fec78_z.jpg
 - http://farm8.staticflickr.com/7034/6538564853_00dbc068bb_z.jpg

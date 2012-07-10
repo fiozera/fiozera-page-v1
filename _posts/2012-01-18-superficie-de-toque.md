@@ -3,7 +3,8 @@ layout: post
 title: Superfície de toque
 snippet: Pra sujar o monitor
 repository: https://github.com/andrebla/touchsurface
-youtube: emBm9OQ2CPE
+youtube: 
+- emBm9OQ2CPE
 thumbnail: superficie-de-toque.jpg
 pictures: 
 - http://farm8.staticflickr.com/7141/6709081331_caabcf37d9_z.jpg

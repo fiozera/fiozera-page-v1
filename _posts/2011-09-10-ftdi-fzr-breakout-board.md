@@ -3,7 +3,8 @@ layout: post
 title: FTDI FZR Breakout Board
 snippet: Porque todo mundo ainda precisa da serial
 repository: https://github.com/andrebla/ftdifzr
-youtube: 4Yf-KapSEFo
+youtube: 
+- 4Yf-KapSEFo
 thumbnail: ftdi-fzr-breakout-board.jpg
 pictures: 
 - http://farm7.staticflickr.com/6204/6133560802_d377ed4b8f_z.jpg
