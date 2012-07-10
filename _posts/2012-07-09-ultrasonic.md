@@ -3,10 +3,9 @@ layout: post
 title: Ultrasonic
 snippet: Tá ouvindo?
 repository: https://github.com/andrebla/ultrasonicsurface
-youtube: 
-- PwEjEgAqbCw
-- nP65q2B6wzs
-thumbnail: ultrassonic.jpg
+youtube: PwEjEgAqbCw
+youtube: nP65q2B6wzs
+thumbnail: ultrasonic.jpg
 pictures: 
 - http://farm8.staticflickr.com/7255/7539897300_d770a190bb_z.jpg
 - http://farm9.staticflickr.com/8427/7539903564_cb8cb257f5_z.jpg
